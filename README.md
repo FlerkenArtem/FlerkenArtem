@@ -29,7 +29,7 @@
 * Windows 11 Pro
 
 ### Ноутбук Samsung NP300E5X-S07RU
-* Intel Pentium B970
+* Intel Pentium B960
 * 8GB DDR3
 * NVidia GeForce GT620M
 * 256GB SSD
